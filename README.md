@@ -117,7 +117,17 @@ This system uses AI to modernize the entire supply chain and improve export comp
 | Mahadurage R.N      | IT22582638           |  IT22582638@my.sliit.lk    |     @Rumalya                |   👨‍💻Member
 
 
+
 ---
+
+## 🌍 Vision Statement
+"To position Sri Lanka as a global leader in AI-driven precision agriculture, transforming traditional coffee cultivation into a technologically sophisticated, economically vibrant, and environmentally sustainable industry that sets new standards for tropical crop intelligence worldwide."
+
+---
+## 🔥 Join the Coffee Revolution
+Transforming Sri Lanka's Heritage with Artificial Intelligence
+
+🏆 CeylonCoffee - Brewing Intelligence, Harvesting Prosperity
 
 <p align="center">
 <img src="https://github.com/Thiwanka49/Ceyloncofee-Research/blob/main/550847209_671150316017200_6014927099350871654_n.jpg" alt="Ceylon Coffee Logo" width="300"></center>
