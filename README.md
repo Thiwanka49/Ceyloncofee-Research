@@ -105,7 +105,8 @@ This system uses AI to modernize the entire supply chain and improve export comp
 
 ---
 
-## 👥 Contributors
+## 👥 Group Details
+
 | Name                | Components      	    |      Email	                |  GitHub Profile	            | Status
 | -------------       | -------------------- |  ------------------------- |  -------------------------- | ----------------------
 | ALOKA A.M.R.V       | IT22312662           |  IT22312662@my.sliit.lk    |   @VishvaAloka              |  ⭐Leader
