@@ -105,12 +105,12 @@ This system uses AI to modernize the entire supply chain and improve export comp
 
 ---
 
-## 📝 Contributors
+## 👥 Contributors
 | Name                | Components      	    |      Email	                |  GitHub Profile	            | Status
 | -------------       | -------------------- |  ------------------------- |  -------------------------- | ----------------------
 | ALOKA A.M.R.V       | IT22312662           |  IT22312662@my.sliit.lk    |   @VishvaAloka              |  ⭐Leader
 | Jayalath M.D. T. L  | IT22328366           |  IT22328366@my.sliit.lk    |    @Thiwanka                |   👨‍💻Member
-| S.S Liyanage        | IT22310682           |  IT22310682@my.sliit.lk    |    @Sahan                   |   👨‍💻Member
+| Liyanage S.S        | IT22310682           |  IT22310682@my.sliit.lk    |    @Sahan                   |   👨‍💻Member
 | Mahadurage R.N      | IT22582638           |  IT22582638@my.sliit.lk    |     @Rumalya                |   👨‍💻Member
 
 
